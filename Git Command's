@@ -1,0 +1,24 @@
+git status🌟 Shows the current status of the repository, such as untracked files, changes to be committed, etc.
+⚠️ Note: Always start with git status to check the current state of your working directory.
+
+git add .🔲 Stages all the changes in your working directory for the next commit.
+
+git commit -m "improving share design"✍️ Commits the staged changes with a commit message explaining the change.
+
+git pull origin branch-name⬇️ Pulls the latest changes from the remote repository for the specified branch.
+🔧 command: git pull origin branch-name should specify the branch name.
+📌 Example: git pull origin share-favourites1
+⚠️ Note: Make sure to specify the correct branch. In this case, "share-favourites1".
+
+git push origin share-favourites1⬆️ Pushes the committed changes to the specified remote branch.
+⚠️ Note: This command uploads your local commits to the remote repository.
+
+git branch🌿 Lists all the branches in your local repository.
+📍 Note: This shows which branch you are currently on and all the other branches.
+
+git checkout branch-name🔄 Switches to the specified branch 
+📌 Example: git checkout share-favourites2
+⚠️ Note: Always ensure you're on the correct branch before making changes.
+
+clear🧹 Clears the terminal screen.
+⚠️ Note: This is not a git command, but a terminal command used to clear the screen.
