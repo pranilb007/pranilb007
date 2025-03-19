@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source front-end projects, especially ones that involve UI/UX design and progressive web apps.
 - 📫 How to reach me: You can email me.
 - 😄 Pronouns: He
-- ⚡ Fun fact: I once built a fully functional website using only ChatGPT during a weekend!
+- ⚡ Fun fact: I once built a fully functional webapp using only ChatGPT during a weekend!
 
 <!---
 pranilb007/pranilb007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
